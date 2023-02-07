@@ -1,0 +1,18 @@
+{
+  "user": [{
+    "userName": "sid",
+    "password": "ipangram",
+    "name": "siddhant jain",
+    "checkBoxes": [
+      true,
+      false,
+      false,
+      true,
+      false,
+      false
+    ],
+    "gender": "male"
+  }
+]
+
+}
